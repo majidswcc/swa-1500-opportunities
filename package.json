@@ -1,7 +1,7 @@
 {
-  "name": "swa-1500-opportunities",
-  "version": "1.0.0",
+  "name": "swa-1500-vite",
   "private": true,
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -13,6 +13,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "vite": "^5.4.0"
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.8"
   }
 }
